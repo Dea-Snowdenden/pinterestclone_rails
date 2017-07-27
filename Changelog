@@ -1,0 +1,3 @@
+Ran sudo apt-get imagemagick
+app->views->pages->about.html.erb changed the block text
+app->views_layouts->_footer.html.erb changed the footer to team31
